@@ -14,6 +14,7 @@ ou
 
 Por fim, rode o comando:
 
+    npm run dev
 
 Como este projeto utiliza **Firebase**, é importante que crie uma conta antes de clonar o projeto, e configure-o corretamente na hora de utilizar. Para consultar a documentação do Firebase, [ clique aqui.](https://firebase.google.com/docs?hl=pt)
 Este projeto foi feito em aula na plataforma B7WEB.
